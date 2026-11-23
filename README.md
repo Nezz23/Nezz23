@@ -24,6 +24,9 @@ warehouse underneath it, finding the story in it, and shipping something people 
 - 🏆 **1st Prize, Smart India Hackathon 2022** and runner-up, UNESCO India Africa Hackathon 2022
 - 🔍 **My rule:** every number gets checked against the data before it goes anywhere. If a finding doesn't hold up, it doesn't ship.
 - 🛫 **Exploring next:** an operations analytics project on real air cargo flight data
+- 🛼 **Fun fact:** I used to compete in roller skating at the national level, so I was chasing speed and optimizing performance long before I discovered Python!
+
+> Somewhere between Python, SQL, data pipelines and a mildly concerning number of LLM calls is usually where you'll find me. 🤓
 
 ### 💪 What I'm good at
 
