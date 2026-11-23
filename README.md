@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Neha ✨</h1>
 
+<p align="center"><i>"Ex national roller skater 🛼 now optimizing data"</i></p>
+
 <p align="center">
   <a href="https://github.com/Nezz23">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E0573A&center=true&vCenter=true&width=640&lines=Data+Scientist+who+ships+things+you+can+click;I+turn+messy+public+data+into+trustworthy+tools;Warehouses+%E2%80%A2+Models+%E2%80%A2+Dashboards+%E2%80%A2+LLM+evals;Every+number+checked+before+it+ships+%E2%9C%85" alt="Typing intro" />
