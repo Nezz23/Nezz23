@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Neha ✨</h1>
+<h1 align="center">Hi, I'm Neha</h1>
 
 <p align="center"><i>"Ex national roller skater 🛼 now optimizing data"</i></p>
 
