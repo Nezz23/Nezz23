@@ -21,7 +21,8 @@ warehouse underneath it, finding the story in it, and shipping something people 
 
 - 🚀 **Founding Data Scientist** at LabVue, building the startup's data pipelines, dashboards and experiments from scratch
 - 🎓 **M.S. Data Science**, Indiana University Bloomington
-- 🏆 **1st Prize, Smart India Hackathon 2022** and runner-up, UNESCO India Africa Hackathon 2022
+- 🏆 **1st Prize, Smart India Hackathon 2022**
+- 🥈 **Runner-up, UNESCO India Africa Hackathon 2022**
 - 🔍 **My rule:** every number gets checked against the data before it goes anywhere. If a finding doesn't hold up, it doesn't ship.
 - 🛫 **Exploring next:** an operations analytics project on real air cargo flight data
 - 🛼 **Fun fact:** I used to compete in roller skating at the national level, so I was chasing speed and optimizing performance long before I discovered Python!
