@@ -55,8 +55,6 @@ warehouse underneath it, finding the story in it, and shipping something people 
 | 👥 **[PeoplePulse](https://github.com/Nezz23/peoplepulse)** | Attrition patterns in IBM's sample HR data, with a fairness check and no individual risk scores by design | [Live app](https://peoplepulse-qqqhgssuz7vqxbze3wxvji.streamlit.app/) |
 | 🛍️ **[ShopLens](https://github.com/Nezz23/shoplens)** | Customer intelligence on 1.07M real e-commerce transactions: segments, churn and where the profit really goes | Code |
 
-<sub>Live apps run on free hosting, so they may take a few seconds to wake up. 😴➡️😃</sub>
-
 ---
 
 ### 🧰 My toolbox
