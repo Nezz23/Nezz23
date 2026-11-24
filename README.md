@@ -47,6 +47,8 @@ warehouse underneath it, finding the story in it, and shipping something people 
 | 🧠 **[FEVS Intelligence](https://github.com/Nezz23/fevs-intelligence)** | What makes people love, hate, or leave their jobs? A dbt warehouse over 6.76M federal employee surveys (2012–2024) that reproduces all 67 OPM-published figures it scores | [Live app](https://fevs-intelligence-nzayptg6rpfxgeeelmxiyx.streamlit.app/) |
 | 🏛️ **Workforce Atlas** | Planning platform for the 2M-person U.S. federal workforce: a monthly automated pipeline over 386M+ records, headcount forecasts and a hiring/attrition simulator | [Live site](https://workforce-atlas.pages.dev) |
 | 🗽 **[NYC Airbnb Analytics Warehouse](https://github.com/Nezz23/airbnb-analytics-warehouse)** | Turns 10 Inside Airbnb snapshots into a history of every listing; data contracts caught 4 broken source files before they could corrupt it | [Live dashboard](https://airbnb-analytics-warehouse-w2kshjjk5jnv9hdkq6b9sp.streamlit.app/) |
+| ⛓️ **[ChainLedger](https://github.com/Nezz23/chainledger)** | A blockchain built from scratch in Java + Spring Boot: signed transactions, parallel mining (8.5x faster on 12 cores), 3 nodes that agree on every balance, and PostgreSQL that catches anyone editing history | Code |
+| 🌊 **[ListingStream](https://github.com/Nezz23/listingstream)** | Streams 284K Airbnb events through Kafka into PostgreSQL in under 2 seconds, and matches the dbt warehouse on all 14 checks | Code |
 | 🛡️ **[AgentEval](https://github.com/Nezz23/agenteval)** | Red-teams tool-using LLM agents: 720 episodes across 3 open models, where a tool-call firewall blocked every tested prompt-injection attack | [Episode replay](https://appapppy-dgwkydrt2wks6oyt78ucyp.streamlit.app/) |
 | 📞 **[Telco Churn Retention](https://github.com/Nezz23/telco-churn-retention)** | Which customers are worth a retention offer, and why: expected-value targeting with SHAP reasons, served as an API | [Live API](https://telco-churn-retention.onrender.com/docs) |
 | 🛒 **[RetailPulse](https://github.com/Nezz23/retailpulse)** | Why did the margin dip? A SQL margin bridge, discount analysis and a revenue forecast, in Tableau and Streamlit | [Tableau](https://public.tableau.com/app/profile/neha.kothavade/viz/RetailPulse_ExecutiveOverview_approved/ExecutiveOverview) · [App](https://retailpulse9030.streamlit.app/) |
@@ -73,6 +75,9 @@ warehouse underneath it, finding the story in it, and shipping something people 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
 </p>
 
