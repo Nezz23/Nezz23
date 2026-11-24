@@ -44,6 +44,7 @@ warehouse underneath it, finding the story in it, and shipping something people 
 
 | Project | What it does | Try it |
 |---|---|---|
+| ✈️ **[FedEx Air Network](https://github.com/Nezz23/fedex-air-network)** | 7.5 years of real DOT flight data on FedEx Express: UPS overtook FedEx in U.S. domestic air cargo in Oct 2024 and has led every month since; hub, fleet and Memphis-disruption analysis plus a forecast that missed 2026 by 0.4% | [Live app](https://fedex-air-network-rmcm8wjsjqpl3g2vehamfe.streamlit.app/) |
 | 🏙️ **[RentGuard](https://github.com/Nezz23/rentguard)** | Live compliance monitoring for NYC short-term rentals: 284K events through Kafka into PostgreSQL, a signed blockchain-style audit ledger you can verify in your browser, and a local-AI assistant that is blocked from inventing numbers (23/23 on a SQL-checked eval) | [Live demo](https://nezz23.github.io/rentguard/) |
 | 🧠 **[FEVS Intelligence](https://github.com/Nezz23/fevs-intelligence)** | What makes people love, hate, or leave their jobs? A dbt warehouse over 6.76M federal employee surveys (2012–2024) that reproduces all 67 OPM-published figures it scores | [Live app](https://fevs-intelligence-nzayptg6rpfxgeeelmxiyx.streamlit.app/) |
 | 🏛️ **Workforce Atlas** | Planning platform for the 2M-person U.S. federal workforce: a monthly automated pipeline over 386M+ records, headcount forecasts and a hiring/attrition simulator | [Live site](https://workforce-atlas.pages.dev) |
